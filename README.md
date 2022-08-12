@@ -1,7 +1,10 @@
 # Professional-Portfolio
 My professional portfolio is where I can portray my skills and previous expierence to employers that are looking to hire in various positions. This portfolio shows the strongest work I have created as well as the process behind it. This portfolio is to help document my work, education, as well as samples of what I have completed.
+# Features
+* HTML
+* CSS
 
-## submition
+# Submition
 URL:
 Github Repo URL:
 
