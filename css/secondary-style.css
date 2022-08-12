@@ -1,0 +1,32 @@
+.volunteering {
+    font-size: 40px;
+}
+.hero {
+    width: 50%;
+    margin: 20px;
+    background-color: aliceblue;
+}
+.hero-cta {
+    width: 50%;
+    margin: 20px;
+}
+.hero-cta2 {
+    width: 50%;
+    margin: 20px;
+}
+.hero-cta2 img {
+    margin-right: 30px;
+    width: 400px;
+    height: 200px;
+}
+.retail {
+    font-size: 40px;
+}
+.nanny {
+    font-size: 40px;
+}
+img {
+    float: right;
+    width: 450px;
+    margin-right: 30px;
+}
